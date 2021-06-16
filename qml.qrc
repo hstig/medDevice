@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MedComponents/DateTimeLabel.qml</file>
+        <file>MedComponents/Button.qml</file>
+    </qresource>
+</RCC>
